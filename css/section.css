@@ -1,0 +1,25 @@
+section.box{
+    position:fixed;
+    margin-left: 5em;
+    top: 50%;
+    width: 30em;
+    margin-top: -20em;
+}    
+img{
+    position: relative;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.button {
+    background-color: #FFCC33;
+    color:teal;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}

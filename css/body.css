@@ -1,0 +1,39 @@
+body {
+    background-color: #FFFFCC;    ;
+    font-family: Helvetica, sans-serif;
+  }
+div.tat{
+    background-color:#FFFFCC ;
+    margin: 100px 100px 0px 600px;
+    columns: 2 auto;
+    column-gap: 50px;
+    
+}
+div.tyt{
+    margin: 10px;
+    border-style: solid;
+    border-width:5px;
+    border-color: #996600;
+    padding: 5px 5px 250px 5px;
+}
+* {box-sizing: border-box}
+
+.container {
+    width: 100%;
+    background-color: #ddd;
+}
+
+.skills {
+    text-align:center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.html {width: 72%; background-color: #996600;}
+.css {width: 54%; background-color: #996600;}
+.js {width: 48%; background-color: #996600;}
+.c {width: 66%; background-color: #996600;}
+.java {width: 60%; background-color: #996600;-webkit-column-break-after:always;}
+.txt {width: 80%; background-color: #996600;}
+.video {width: 55%; background-color: #996600;}
